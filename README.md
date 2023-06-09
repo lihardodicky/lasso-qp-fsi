@@ -1,4 +1,4 @@
-# lasso-qp-fsi
+# Constrained Lasso with Quadratic Programming Approach: Optimizing Variable Selection for Food Security Index in Java Island
 
 This project is intended for the fulfilment of our lecture courses, regarding the final assignment project-based learning program. Yash, I just want to share it widely through this medium article.
 
